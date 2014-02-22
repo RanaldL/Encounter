@@ -4,6 +4,11 @@ import java.awt.event.ActionListener;
 
 import javax.swing.*;
 
+/**
+ * 
+ * @author Ran
+ *
+ */
 public class Encounter implements ActionListener {
 	
 	JFrame frame = new JFrame("Encounter - Enemy generator");
