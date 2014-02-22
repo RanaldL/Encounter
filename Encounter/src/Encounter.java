@@ -35,7 +35,7 @@ public class Encounter implements ActionListener {
 		menubar.add(menu);		
 		
 		// Menu items
-		close = new JMenuItem("Close"); // We don't really need this because the red x does the same thing, but users expect it
+		close = new JMenuItem("Close"); // We don't really need this because the red x does the same thing, but users expect it...
 		close.addActionListener(this);
 		
 		// Other menu items go here
